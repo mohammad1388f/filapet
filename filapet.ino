@@ -6,8 +6,6 @@ created by : mohammad farahany
 #include <WiFi.h>
 #include <WebServer.h>
 #include <EEPROM.h>
-#include <esp_system.h> // only for esp 32
-#include <esp_task_wdt.h> // only for esp 32
 #include "BasicStepperDriver.h"
 //*************************set pins********************************
 #define step_pin 22
