@@ -31,9 +31,7 @@ https://parmanshop.ir/%D9%86%D8%A7%D8%B2%D9%84-0-8mm-%D8%A7%DA%A9%D8%B3%D8%AA%D8
 https://parmanshop.ir/%D9%87%DB%8C%D8%AA%D8%B1-%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%D9%88%D8%AF%D8%B1-12V-70W-Cartridge-Heater-%DB%8C%DA%A9-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86%DB%8C?search=70w&description=true
 
 ۴ ترمیستور pt100
-
-لینک براش پیدا نکردم اما تصویرش میذارم
-به اینستاگرام پیام بدید اگر پیدا نکردید بتونم تهیه میکنم براتون میفرستم
+https://shop.redronic.com/product/thermal-management/thermal-sensor/wzp-pt100/
 
 ۵ ۲ عدد اپنو کوپلر ،pc817
 
