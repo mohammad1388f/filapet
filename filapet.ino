@@ -1,5 +1,4 @@
 /* main code
-board : ESP32 Dev Module
 created by : mohammad farahany 
 2023\7\30
 */
@@ -17,6 +16,7 @@ created by : mohammad farahany
 
 //*****************************************************************
 #define micro_steps 32
+#define movment_set 30 // if your motor working bad set this num biger and if you see a lot of delay set this lees
 //*****************************************************************
 
 //***********************set ssid and password *******************
@@ -69,6 +69,7 @@ int address = 1;
 int address2 = 2;
 
 bool run_out_mode = LOW;
+
 
 String mode = "working";
 
@@ -378,7 +379,7 @@ void run_out() {
 void speed_set() {
   RPM = map(speed, 0, 100, 0, 400);
   stepper.begin(RPM, micro_steps); // Update the RPM value here
-  stepper.rotate(360);
+  stepper.rotate(movment_set);
   stepper.move(-100 * micro_steps);
 }
 
